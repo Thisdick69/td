@@ -37,7 +37,7 @@
     "fastify-cli": "^5.7.0",
     "fastify-plugin": "^4.0.0",
     "fastify-sse-v2": "^3.1.2",
-    "langchain": "^0.0.152",
+    "langchain": "^0.2.19",
     "openai": "^4.4.0"
   },
   "devDependencies": {

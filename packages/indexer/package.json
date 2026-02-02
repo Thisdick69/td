@@ -36,7 +36,7 @@
     "@fastify/type-provider-json-schema-to-ts": "^2.2.2",
     "commander": "^11.0.0",
     "dotenv": "^16.3.1",
-    "fastify": "^4.22.2",
+    "fastify": "^5.7.3",
     "fastify-cli": "^5.7.0",
     "fastify-plugin": "^4.0.0",
     "mime": "^3.0.0",
